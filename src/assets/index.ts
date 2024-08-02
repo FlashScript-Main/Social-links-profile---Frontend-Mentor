@@ -1,5 +1,5 @@
-import omeletteImage from './image-omelette.jpeg';
+import jessicaImage from './avatar-jessica.jpeg';
 
 export {
-    omeletteImage
+    jessicaImage
 }
