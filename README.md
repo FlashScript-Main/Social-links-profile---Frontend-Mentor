@@ -1,4 +1,4 @@
-❤️🔥🔗[Live Website](https://flashscript-recipepage.netlify.app/)🔗🔥❤️
+❤️🔥🔗[Live Website](https://flashscript-sociallinksprofile.netlify.app/)🔗🔥❤️
 
 # Frontend Mentor 🧭- Social links profile
 ![Design preview for the Blog preview card coding challenge](./src/assets/screenshots//desktop-preview.jpg)
